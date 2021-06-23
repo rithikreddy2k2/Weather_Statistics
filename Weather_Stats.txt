@@ -1,0 +1,5 @@
+	Weather Stats for - HYDERABAD  || 23 Jun 2021 | 08:18:02 PM
+		Current temperature is: 29.22 deg C
+		Current weather desc  : haze
+		Current Humidity      : 63 %
+		Current wind speed    : 4.12 kmph
